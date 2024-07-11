@@ -1,4 +1,4 @@
-package Opps.MyPackage1;
+package MyPackage1;
 
 public class MyClass {
     public static void main(String[] args) {
