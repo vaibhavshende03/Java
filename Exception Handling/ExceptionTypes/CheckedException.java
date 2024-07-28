@@ -8,7 +8,7 @@ import java.io.FileReader;
 public class CheckedException {
 
     public static void main(String[] args) {
-
+/*
 
         //FileNotFound Exception
       FileReader f1=new FileReader("demo.txt");
@@ -17,6 +17,6 @@ public class CheckedException {
         //ClassNotFoundException
         Car temp=new Car();
 
-
+*/
     }
 }
