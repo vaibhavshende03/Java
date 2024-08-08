@@ -7,7 +7,7 @@ public class Ex18 {
     public static void main(String[] args) {
         int[] arr1={10,20,30,40,50,60};
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the number of index where you want to add the new element.");
+        System.out.println("Enter the number of index where you want to remove the new element.");
         int index=sc.nextInt();
 
         if(index>0 && index<arr1.length){
