@@ -1,6 +1,8 @@
+//Addition of two matrices
+
 import java.util.Arrays;
 
-//Addition of two matrices
+
 public class Ex25 {
 
     public static int[][] additionOfMatrices(int[][] a,int[][] b,int s){
