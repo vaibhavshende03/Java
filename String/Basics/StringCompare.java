@@ -15,5 +15,13 @@ public class StringCompare {
         System.out.println(s==s2);
         System.out.println(s==s3);
         System.out.println(s==s4);
+
+        //compareTo() method
+        System.out.println("------------------*****------------------");
+        String s5="Ratan";
+        System.out.println(s.compareTo(s2));//0(because same)
+        System.out.println(s.compareTo(s5));//1 because s>s5
+        System.out.println(s5.compareTo(s));//-1 because s5<s
+
     }
 }
