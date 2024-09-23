@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/ArrayListInterface/ArrayListInterface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/ArrayListInterface/ArrayListInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection_framework.iml" filepath="$PROJECT_DIR$/Collection_framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/List_Interface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/List_Interface.iml" />
