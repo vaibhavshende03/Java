@@ -8,8 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Queue_Interface/Deque_ArrayDeque/Deque_ArrayDeque.iml" filepath="$PROJECT_DIR$/Basics/Queue_Interface/Deque_ArrayDeque/Deque_ArrayDeque.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/LinkedListInterface/LinkedListInterface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/LinkedListInterface/LinkedListInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/List_Interface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/List_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Map_Interface/Map_Interface.iml" filepath="$PROJECT_DIR$/Basics/Map_Interface/Map_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Queue_Interface/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/Basics/Queue_Interface/PriorityQueue/PriorityQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Queue_Interface/Queue_Interface.iml" filepath="$PROJECT_DIR$/Basics/Queue_Interface/Queue_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Set_Interface/Set_Interface.iml" filepath="$PROJECT_DIR$/Basics/Set_Interface/Set_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/StackInterface/StackInterface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/StackInterface/StackInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/List_Interface/VectorInterface/VectorInterface.iml" filepath="$PROJECT_DIR$/Basics/List_Interface/VectorInterface/VectorInterface.iml" />
     </modules>
