@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CreateAThread/CreateAThread.iml" filepath="$PROJECT_DIR$/CreateAThread/CreateAThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterruptingThread/InterruptingThread.iml" filepath="$PROJECT_DIR$/InterruptingThread/InterruptingThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reentrant Monitor/Reentrant Monitor.iml" filepath="$PROJECT_DIR$/Reentrant Monitor/Reentrant Monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Synchronization/Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadCommunicaton/ThreadCommunicaton.iml" filepath="$PROJECT_DIR$/ThreadCommunicaton/ThreadCommunicaton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLifeCycle/ThreadLifeCycle.iml" filepath="$PROJECT_DIR$/ThreadLifeCycle/ThreadLifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadMethods/ThreadMethods.iml" filepath="$PROJECT_DIR$/ThreadMethods/ThreadMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadMethods/join/join.iml" filepath="$PROJECT_DIR$/ThreadMethods/join/join.iml" />
+    </modules>
+  </component>
+</project>
