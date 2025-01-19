@@ -4,18 +4,17 @@ public class decimalToBinary {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int decimal_number = sc.nextInt();
-        int ans = 0;// Converted to decimal
-        int pw = 1;// power of 10
-
-        while (decimal_number > 0) {
-            int parity = decimal_number % 2;
-            ans += (parity * pw);
-            pw *= 10;
-            decimal_number /= 2;
-
+        int decimalNumber = sc.nextInt();
+        int binaryNumber = 0;
+        int base = 1;
+        while (decimalNumber > 0) {
+            int remainder = decimalNumber % 2;
+            binaryNumber += remainder * base;
+            decimalNumber = decimalNumber / 2;
+            base = base * 10;
         }
-        System.out.println(ans);
+        System.out.println(binaryNumber);
+
         sc.close();
     }
 
